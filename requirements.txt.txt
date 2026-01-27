@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Explainable AI
+shap
+lime
+
+# Jupyter
+jupyter
+notebook
+ipykernel
+
+# Utilities
+tqdm
+joblib
+
+# Optional 
+imbalanced-learn
+optuna
